@@ -1,8 +1,10 @@
 ### Hi there 👋
 
+I'm based in Rio de Janeiro, Brazil, and I work in IT support. I have a passion for hardware, and I'm currently 
+enrolled in Cubos Academy, where I'm focusing on backend development. My goal is to continue learning and working on exciting projects.
 
-
-- 🌱 I’m currently learning Java, TypeScript and Angular
+- 🌱 I’m currently learning Java, TypeScript, and Angular
+  
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
